@@ -1,0 +1,139 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="floating_action_button">
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="contentHeader">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+
+    <style name="contentHeaderBlack">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="contentText">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">@color/blue_grey_dark</item>
+    </style>
+
+
+
+    <style name="subContentHeader">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/gray_dark</item>
+    </style>
+    <style name="subContentTextSmall">
+        <item name="android:textSize">@dimen/font_normal</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="subContentTextMedium">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="subContentTextLarge">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="subContentWarning">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+    <style name="subContentError">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+    <style name="subContentSuccess">
+        <item name="android:textSize">@dimen/font_extra_large</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="editableContentText">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">@color/blue_light</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="dateTextSmall">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+    <style name="dateTextMedium">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+    <style name="dateTextLarge">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+
+    <style name="buttonNameText">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+
+
+
+
+    <style name="btnSubmitOrDoneSmall">
+        <item name="android:background">@drawable/btn_selector_green_round</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font_normal</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="btnSubmitOrDoneNormal">
+        <item name="android:background">@drawable/btn_selector_green_round</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="btnSubmitOrDoneLarge">
+        <item name="android:background">@drawable/btn_selector_green_round</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="btnSendNormal">
+        <item name="android:background">@drawable/btn_selector_blue_round</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="btnTransparentWithBlackBackgroundNormal">
+        <item name="android:background">@drawable/btn_selector_tranparent_black_border</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/font_medium</item>
+    </style>
+
+
+    <style name="datePickerTheme" parent="@android:style/Theme.Holo">
+    </style>
+</resources>

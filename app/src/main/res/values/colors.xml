@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+
+
+    <color name="yellow">#ffd600</color>
+    <color name="yellow_light">#dece22</color>
+    <color name="yellow_dark">#9e9d24</color>
+
+
+    <color name="orange">#FF9100</color>
+    <color name="orange_light">#FFAB40</color>
+    <color name="orange_dark">#FF6D00</color>
+
+    <color name="green">#2baf2b</color>
+    <color name="green_light">#17c617</color>
+    <color name="green_dark">#2e7d32</color>
+
+
+    <color name="blue">#2962FF</color>
+    <color name="blue_light">#80BDD0</color>
+    <color name="blue_dark">#061CE8</color>
+    <color name="blue_grey">#607d8b</color>
+    <color name="blue_grey_dark">#009688</color>
+    <color name="blue_deep">#263238</color>
+    <color name="blue_deep_light">#3f535c</color>
+
+    <color name="red_light">#FF5252</color>
+    <color name="red">#FF1744</color>
+    <color name="red_dark">#D50000</color>
+
+
+    <color name="gray">#55595c</color>
+    <color name="gray_dark">#373a3c</color>
+    <color name="gray_light">#818a91</color>
+    <color name="gray_lighter">#AAAAAA</color>
+    <color name="gray_lightest">#CCCCCC</color>
+</resources>
